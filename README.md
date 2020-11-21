@@ -2,9 +2,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+This is a Kagle challenge. The details of the challenge can be found [here](https://www.kaggle.com/c/lish-moa/overview).
+
 ## Author
 
-This is a Kagle challenge. The details of the challenge can be found [here](https://www.kaggle.com/c/lish-moa/overview).
+Govind Ajith Kumar 
 
 ## Directory Structure
 
