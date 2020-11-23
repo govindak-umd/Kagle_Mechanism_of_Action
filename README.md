@@ -62,4 +62,5 @@ Please ensure that you have the following libraries pre-installed.
 
 ## Work inspired by
 
+The programme worked on is inspired by [this](https://www.kaggle.com/utkukubilay/pytorch-moa-0-01867).
 
