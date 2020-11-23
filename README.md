@@ -45,6 +45,21 @@ Please ensure that you have the following libraries pre-installed.
  - While the programme can run on CPU, its much faster on GPU. Hence, please have your GPU/CUDA enabled.
  - Python 3.x
 
+# Learning curves
+
+## Iteration_1
+<p align="center">
+  <img  height="500" src="images/train_loss_list.png">
+</p>
+
+<p align="center">
+  <img  height="500" src="images/valid_loss_list.png">
+</p>
+
+<p align="center">
+  <img  height="500" src="images/best_loss_list.png">
+</p>
+
 ## Work inspired by
 
 
