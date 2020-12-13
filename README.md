@@ -5,6 +5,7 @@
 This is a Kagle challenge. The details of the challenge can be found [here](https://www.kaggle.com/c/lish-moa/overview).
 
 
+Please fidn my submission [here](https://www.kaggle.com/govindajith/draft-1).
 ## What the programme does:
 
 Predicting multiple targets of the Mechanism of Action (MoA) response(s) of different samples (sig_id), given various inputs such as gene expression data and cell viability data.
@@ -25,8 +26,11 @@ Govind Ajith Kumar
 ## Directory Structure
 
 		 Directory_containing_all_codes
-		 DIRECTORY:CSV_FILES
-				    |___<all_csv_data_files>
+		iterative-stratification-master
+		input
+			lish-moa
+			 DIRECTORY:CSV_FILES
+					    |___<all_csv_data_files>
 		 Main_Notebook
 
 ## Pre-requisites
